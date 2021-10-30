@@ -1,0 +1,7 @@
+D:\visual-progs\BMI-calc\BMI-calc\bin\Debug\BMI-calc.exe.config
+D:\visual-progs\BMI-calc\BMI-calc\bin\Debug\BMI-calc.exe
+D:\visual-progs\BMI-calc\BMI-calc\bin\Debug\BMI-calc.pdb
+D:\visual-progs\BMI-calc\BMI-calc\obj\Debug\BMI-calc.csproj.AssemblyReference.cache
+D:\visual-progs\BMI-calc\BMI-calc\obj\Debug\BMI-calc.csproj.CoreCompileInputs.cache
+D:\visual-progs\BMI-calc\BMI-calc\obj\Debug\BMI-calc.exe
+D:\visual-progs\BMI-calc\BMI-calc\obj\Debug\BMI-calc.pdb
