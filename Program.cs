@@ -20,7 +20,7 @@ namespace erste_konsolenanwendung_net_framework
                 double lengthM = lengthCm / 100;
 
                 bodyindex = mass / Math.Pow(lengthM, 2);
-                Console.WriteLine("Your BMI is: " + bodyindex);
+                Console.WriteLine("Your BMI is: " + Math.Round(bodyindex, 2) );
 
                 switch (bodyindex)
                 {
